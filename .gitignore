@@ -1,0 +1,11 @@
+# Local machine config
+local.properties
+
+# Build/cache
+.gradle/
+.gradle-user/
+build/
+
+# IDE
+.idea/
+*.iml

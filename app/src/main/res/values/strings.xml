@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Roblox Keeper</string>
+    <string name="toggle_service">Toggle Keeper Service</string>
+    <string name="logs_label">Keeper Logs</string>
+    <string name="no_logs">No logs yet.</string>
+    <string name="copy_logs">Copy Logs</string>
+    <string name="logs_copied">Logs copied</string>
+    <string name="clear_logs">Clear Logs</string>
+    <string name="logs_cleared">Logs cleared</string>
+</resources>
