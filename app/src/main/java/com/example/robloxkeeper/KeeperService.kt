@@ -16,6 +16,8 @@ import org.json.JSONObject
 import java.io.File
 import java.util.concurrent.TimeUnit
 
+//shoutout claude
+
 class KeeperService : Service() {
 
     companion object {
