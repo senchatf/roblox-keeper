@@ -27,7 +27,7 @@ class KeeperService : Service() {
         private const val CHANNEL_ID = "keeper_channel"
         private const val TAG = "KeeperService"
         private const val TARGET_PACKAGE = "com.roblox.client"
-        private const val DEEPLINK = "roblox://placeId=606849621"
+        private const val DEEPLINK = "https://www.roblox.com/share?code=c00bc130c108844d800e144db1ed8352&type=Server"
         private const val CHECK_URL = "https://inventories.jailbreakchangelogs.com/bots/connected"
         private const val CHECK_INTERVAL = 10000L
         private const val HEARTBEAT_INTERVAL = 5 * 60 * 1000L // 5 minutes
